@@ -1,0 +1,25 @@
+%&Plain
+
+%%% two lines intersecting with a ray eminating from the point 
+%%%    of intersection -- JRG test bank Test 2
+
+%\input xy
+
+\hbox{
+\xy    <1cm,0cm>:<0cm,1cm>::
+       (0,0)="O" *{\bullet}  ; (1,2)="E" **\dir{-}; ?>*\dir{>};
+          ?(0.7) *{\bullet};
+          ?(.7)+<0.5em,-1.7ex> *{E};
+       "O"; (-1,-2)="D" **\dir{-}; ?>*\dir{>}; ?(0.7) *{\bullet};
+          ?(.7)+<0.5em,-1.7ex> *{D};
+       "O"; (-2.5,0)="A" **\dir{-}; ?>*\dir{>}; ?(0.7) *{\bullet};
+          ?(.7)+<0em,-1.7ex> *{A};
+       "O"; (2.5,0)="C" **\dir{-}; ?>*\dir{>}; ?(0.7) *{\bullet};
+          ?(.7)+<0em,-1.7ex> *{C};
+       "O"; (-1,2)="F" **\dir{-}; ?>*\dir{>}; ?(0.7) *{\bullet};
+          ?(.7)+<-0.5em,-1.7ex> *{F};
+       "O"+<0.5em,-1.7ex> *{B};
+       \endxy}
+
+%\bye
+

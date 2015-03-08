@@ -1,0 +1,13 @@
+%&Plain
+%%% 
+
+%\input xy 
+
+\hbox{
+\def\rootthree{1.7320508}
+\def\halfrootthree{0.8660254}
+\xy    <2.5cm,0cm>:<0cm,2.5cm>::       (0,0)="T" *{\bullet}; (-1,0)="C" *{\bullet}; 
+		(1,0)="E" *{\bullet}; **\dir{-};        (0,\rootthree)="R" *{\bullet}; "T" **\dir{-}; 
+       (-0.5,\halfrootthree)="O" *{\bullet}; "E" **\dir{-}; 
+		?!{"R";"T"}="N" *{\bullet};       "C"; "R" **\dir{-};        "T"+<0em,-2.0ex> *{T};       "C"+<-1em,0ex> *{C};       "E"+<1em,0ex> *{E};       "R"+<0em,2ex> *{R};       "O"+<-0.75em,1.2ex> *{O};       "N"+<1em,1ex> *{N};       "N"+<-0.5em,2.5ex> *{1};       "N"+<0.5em,-2.5ex> *{2};       \endxy}	   
+%\bye

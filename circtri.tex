@@ -1,0 +1,21 @@
+%&Plain
+%%%% circle inscribed in a triangle;
+%\input xy
+%\xyoption{curve}
+%\xyoption{arc}
+
+
+\hbox{
+\xy    <1cm,0cm>:<0cm,1cm>::
+       (0,0) *\ellipse(1){-}; (0,0); 
+       (-1.022475,-1)="A"; "A"+a(88.726656)="A2" **\dir{-}; 
+       (2.811805,-1)="B"; "B"+a(140.844814)="B2" **\dir{-}; 
+       "A"; "B" **\dir{-}; 
+       {"A";"A2":"B";"B2",x}="X" **\dir{-}; 
+%  {"D";"G":"A";"C",x} ="E";
+       "A"; "X" **\dir{-}; 
+       "B"; "X" **\dir{-}; 
+\endxy}
+
+%\bye
+

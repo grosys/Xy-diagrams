@@ -1,0 +1,21 @@
+%&Plain
+%%% a quad not parallelogram, diagonal and angles to determine longer side.
+
+\hbox{
+\xy    <1cm,0cm>:<-0.5cm,1cm>::
+%       (0.1,0)="E";  (-0.1,2.5)="G";  
+       (-2,0)="A";  (1,0)="B" **\dir{-} ?(0.5)*^!/6pt/{10};
+       "B"; (1.8,2.4)="C" **\dir{-};  (-1,2.5)="D" **\dir{-} ?(0.5)*^!/6pt/{10};
+       "D"; "A" **\dir{-}; "C" **\dir{-}  ?(0.5)*^!/9pt/{10}; 
+%       "D"; "B" **\dir{-} ?!{"E";"G"}="F";
+%       "E"; "G" **\dir{-};  
+       "A"+<-0.5em,-1.5ex> *{S};
+       "D"+<-0.5em,1.5ex> *{R};
+       "B"+<0.5em,-1.5ex> *{K};
+       "C"+<0.5em,1.5ex> *{J};
+       "A"+<1.95em,1.5ex> *{39^\circ};
+       "C"+<-1.65em,-1.5ex> *{41^\circ};
+%       "E"+<0em,-1.5ex> *{E};
+%       "G"+<0em,1.5ex> *{G};       "F"+<1em,0ex> *{F};
+       \endxy}
+	   

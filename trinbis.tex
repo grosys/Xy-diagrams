@@ -1,0 +1,18 @@
+%&Plain
+
+%% A triangle with one of the angles bisected.
+
+\hbox{
+   \xy    <1.5cm,0cm>:<0cm,1.5cm>::
+       (-1,-1)="A" ;  (2.50,-0.72)="B";  
+       (-0.5,0.80)="C";   (2,1)="D"; {"A";"D":"B";"C",x} ="J";
+	 "A" ; "B" **\dir{-}; 
+       "C" ; "A" **\dir{-};        "C" ; "B" **\dir{-}; 
+       "J" ; "A" **\dir{-}; 
+       "A"+<-0.7em,0ex> *{A};
+       "B"+<0.7em,0ex> *{B};
+       "J"+<0.7em,1ex> *{D};
+       "C"+<-0.7em,0.5ex> *{C};
+       "A"+<1em,3ex> *{1};
+       "A"+<2.5em,1.75ex> *{2};
+   \endxy}

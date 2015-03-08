@@ -1,0 +1,66 @@
+%&Plain
+%%%%%% Clemens O'Daffer and Cooney
+%%%% 3 intersecting lines with a 70 deg angle
+%%%% name stuff 
+
+%\input xy
+%\xyoption{arc}
+
+
+\hbox{
+\xy    <1cm,0cm>:<0cm,1cm>::
+       (0,0)="O"; (-3,0); (3,0) **\dir{-}; 
+            ?(0.17)="J"; ?<*\dir{<}; ?>*\dir{>}; ?(0.83)="F";
+         "J" *{\bullet}; "J"+<0em,-1.65ex> *{J};
+         "F" *{\bullet}; "F"+<0em,1.65ex> *{F};
+%      This was the horizontal.
+%      Now the positive diagonal 70 deg
+       "O"; "O"+a(70)  **\dir{}; ?(2)="ET"; ?(-1.8)="EB";
+          **\dir{-}; ?<*\dir{<}; ?>*\dir{>}; ?(0.83)="E";
+       "E" *{\bullet}; "E"+<-1em,0.15ex> *{E}; ?(0.13)="D";
+       "D" *{\bullet}; "D"+<1em,0.15ex> *{D};
+%      Now the negative diagonal 160 deg
+       "O"; "O"+a(160)  **\dir{}; ?(-2.4)="LB"; ?(2.8)="LT";
+          **\dir{-}; ?<*\dir{<}; ?>*\dir{>}; ?(0.13)="L";
+       "L" *{\bullet}; "L"+<0.2em,1.5ex> *{L}; ?(0.83)="M";
+       "M" *{\bullet}; "M"+<-0.2em,-1.5ex> *{M};
+%      O, the right angle mark, and the 70 deg arc THIS NEEDS HELP
+%      "O"+<-0.8em,-1.5ex> *{O};  "O"+a(70);
+%       "O" {\ellipse<15pt>_,=a(70){-}}
+%          ?(.7)+<0.4em,-1.5ex> *{B};
+%       "O"; (-2,1)="C" **\dir{-}; ?>*\dir{>}; ?(0.7) *{\bullet};
+%          ?(.7)+<0em,-1.7ex> *{C};
+%       "O"; (-0.61,2.15)="D" **\dir{-}; ?>*\dir{>}; ?(0.7) *{\bullet};
+%          ?(.7)+<-0.7em,0ex> *{D};
+%       "O"; (0.61,-2.15)="E" **\dir{-}; ?>*\dir{>}; ?(0.7) *{\bullet};
+%          ?(.7)+<0.7em,0ex> *{E};
+%       "O"+<1em,0ex> *{O};
+%       (-.3,0.15); (-.45,-.15) **\dir{-}; (-.15,-.3) **\dir{-};
+       \endxy}
+
+%\bye
+
+%   \xy 0;/r5pc/:*\dir{*}="p",*+!DR{p};
+%   p+(.5,-.5)*\dir{*}="c",*+!UL{c}**\dir{-}
+%   ,"c",{\ellipse<15pt>_,=:a(45){=}}
+%   ,{\ellipse<>__,=:a(30){-}}
+%   ,{\ellipse(1,.4){.}}
+%   ,{\ellipse(1,.4)_,=:a(120){-}}
+%   ,{\ellipse(,.75){.}}
+%   ,{\ellipse(,.75)_,^,^{-}}\endxy
+
+
+%\hbox{
+%   \xy    <1cm,0cm>:<0cm,1cm>::
+%       (0,3)="A"; (5,3)="C" **\dir{-}; (5,0)="E" **\dir{-}; 
+%       0="G"  **\dir{-}; "A" **\dir{-}; (5,1)="D" **\dir{-}; 
+%       "C"; "G" **\dir{-}; (2,3)="B"; (2,0)="F" **\dir{-};
+%       {"A";"D":"B";"F",x}="H";  {"A";"D":"C";"G",x}="I";
+%       {"C";"G":"B";"F",x}="J"; 
+%       "A"+<-0.8em,0ex> *{A}; "B"+<0em,1.3ex> *{B};  
+%       "C"+<0.8em,0ex> *{C};  "D"+<0.8em,0ex> *{D};    
+%       "E"+<0.8em,0ex> *{E}; "F"+<0em,-1.3ex> *{F};  
+%       "G"+<-0.8em,0ex> *{G};  "H"+<-0.55em,1.75ex> *{H};    
+%       "I"+<0em,1.5ex> *{I};  "J"+<0.55em,-0.75ex> *{J};    
+%   \endxy}
+%\bye

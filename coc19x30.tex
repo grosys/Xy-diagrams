@@ -1,0 +1,20 @@
+%&Plain
+%%%% rectangle with crossing segments
+%%%% check out book for ideas
+
+%\input xy
+
+\hbox{
+   \xy    <1cm,0cm>:<0cm,1cm>::
+       (0,3)="A"; (5,3)="C" **\dir{-}; (5,0)="E" **\dir{-}; 
+       0="G"  **\dir{-}; "A" **\dir{-}; (5,1)="D" **\dir{-}; 
+       "C"; "G" **\dir{-}; (2,3)="B"; (2,0)="F" **\dir{-};
+       {"A";"D":"B";"F",x}="H";  {"A";"D":"C";"G",x}="I";
+       {"C";"G":"B";"F",x}="J"; 
+       "A"+<-0.8em,0ex> *{A}; "B"+<0em,1.3ex> *{B};  
+       "C"+<0.8em,0ex> *{C};  "D"+<0.8em,0ex> *{D};    
+       "E"+<0.8em,0ex> *{E}; "F"+<0em,-1.3ex> *{F};  
+       "G"+<-0.8em,0ex> *{G};  "H"+<-0.55em,1.75ex> *{H};    
+       "I"+<0em,1.5ex> *{I};  "J"+<0.55em,-0.75ex> *{J};    
+   \endxy}
+%\bye

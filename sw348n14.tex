@@ -1,0 +1,20 @@
+%&Plain
+%%%% scalene tri unlabeled with angle bisector
+%\input xy
+%\xyoption{curve}
+%\xyoption{arc}
+
+\hbox{
+\xy    <1cm,0cm>:<0cm,1cm>::
+       (0,0)="A" ; (5,0)="C" **\dir{-};  %% 5, 3\sqrt 2, \sqrt 13.
+       (2,3)="B" **\dir{-};  "A" **\dir{-}; "B";
+       (2.297059,0)="D" **\dir{-};  
+%% STRUCTURE
+       "A"+<-0.75em,-0.5ex> *{A};
+       "B"+<0em,1.5ex> *{B};
+       "D"+<0em,-1.5ex> *{D};
+       "C"+<0.75em,-0.5ex> *{C};
+       \endxy}
+	   
+%\bye
+

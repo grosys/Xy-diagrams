@@ -1,0 +1,13 @@
+%&Plain
+
+%%% the rule for creating koch's snowflake
+% \input xy
+
+\hbox{
+\xy    <2cm,0cm>:<0cm,2cm>::
+       (-1,1); (1,1)  **\dir{-};
+       (-1,0); (-0.333333,0) **\dir{-};  (0,0.57735) **\dir{-}; 
+       (0.333333,0) **\dir{-}; (1,0) **\dir{-};
+\endxy}
+
+%\bye

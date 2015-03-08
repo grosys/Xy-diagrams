@@ -1,0 +1,24 @@
+%\input xy
+%\xyoption{arc}
+
+\xy
+        0;/r1pc/:                       %% intro sets 
+                                        %% up coordinate grid 
+		0 *\dir{*}="c",{\ellipse(5){-}};                %  declares center to be "c"
+		                                                        %  drops a 
+		                                                        %  bullet at "c" 
+		                                                        %  and lables "c" 
+		                                                        %  on its 
+		                                                        %  Left. 
+		                                                        %  Draws 
+		                                                        %  circle of 
+		                                                        %  radius 1 
+		                                                        %  cent at c. 
+		(5,0) *\dir{*}="b",{\ellipse(3){-}};                %  declares center to be "c"
+		(2.5,4.330127); 0 **\dir{-}   ?*^!/7pt/{5};     %  adds line
+		(6.5,-2.598076); (5,0) **\dir{-} ?*^!/7pt/{3};     %  adds line
+		0; (5,0) **\dir{-};     %  adds line
+\endxy
+
+
+%\bye

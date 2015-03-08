@@ -1,0 +1,18 @@
+%&Plain
+%%%% circle diagram --- inscribed arc.
+%\input xy
+%\xyoption{curve}
+%\xyoption{arc}
+
+
+\hbox{
+\xy    <2cm,0cm>:<0cm,2cm>::
+       (0,0) *\ellipse(1){-}; 
+       (-0.866025,-0.5)="E"; (-0.342020,0.939693)="A"; (0.866025,0.5)="B";
+       (0.984808,-0.173648)="D"; {"A";"B":"D";"E",x} ="C"; "A"; **\dir{-}; 
+       "E"; **\dir{-}; "A"; "D" **\dir{-}; "B"; "E" **\dir{-}; 
+       "E"+<3em,2.5ex>*{20^\circ}; (-0.984808,0.173648)+<-1em,1ex> *{100^\circ}; 
+       "C"+<-1.75em,0.4ex>*{y}; {"A";"D":"B";"E",x} ="X"; "X"+<-1em,0.05ex>*{z}; 
+\endxy}
+
+%\bye

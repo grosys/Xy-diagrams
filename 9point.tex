@@ -1,0 +1,31 @@
+%&Plain
+
+%%% A large work in progress creating a 9-point circle.
+%\input xy
+%\xyoption{curve}
+%\xyoption{arc}
+%\input macros
+
+\hbox{
+\xy    <2.5cm,0cm>:<0cm,2.5cm>::
+%%%%   INITIAL TRIANGLE
+       (0,0)="A";                  %%%% Change points here and see if
+       (3,0)="B"        **\dir{-};    % the changes propagate.
+       (-1,2)="C"        **\dir{-};
+       "A" **\dir{-};
+%       "O"; (-2,1)="C" **\dir{-}; ?>*\dir{>}; ?(0.7) *{\bullet};
+%          ?(.7)+<0em,-1.7ex> *{C};
+%       "O"; (-0.61,2.15)="D" **\dir{-}; ?>*\dir{>}; ?(0.7) *{\bullet};
+%          ?(.7)+<-0.7em,0ex> *{D};
+%       "O"; (0.61,-2.15)="E" **\dir{-}; ?>*\dir{>}; ?(0.7) *{\bullet};
+%          ?(.7)+<0.7em,0ex> *{E};
+%       "O"+<1em,0ex> *{O};
+%       (-.3,0.15); (-.45,-.15) **\dir{-}; (-.15,-.3) **\dir{-};
+%%%  LABELING %%%%
+	"A"+<-1em,-0.5ex> *{A}; 
+	"B"+<1em,-0.5ex> *{B}; 
+	"C"+<-1em,1ex> *{C}; 
+       \endxy}
+
+%\bye
+

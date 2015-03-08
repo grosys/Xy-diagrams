@@ -1,0 +1,40 @@
+%&Plain
+
+%\input xy
+
+\hbox{
+\xy    <0.7cm,0cm>:<0cm,0.7cm>::
+       (0,-2)="A"; (0,2)="B"  **\dir{-}; ?(1.2) 
+       *\dir{>}; ?(-0.2) *\dir{<}; **\dir{-};
+       (2.5,0)="v"; (-2,-0.75)="u"; 
+       ?(.3) *{\bullet}; ?(.3)+<-1em,0.5ex> *{B};
+%       ?(.5) *{\bullet}; ?(.5)+<-0.5em,1ex> *{N};
+       ?(.7) *{\bullet}; ?(.7)+<1em,0.5ex> *{D};
+       "A"; "A"-"v"="D"; "B"-"v"="E" **\dir{-}; 
+% A-D not drawn because of intersection see below.
+       "B" **\dir{-};
+       "A"; "A"+"v"="F" **\dir{-}; "B"+"v"="G" **\dir{-};
+       "B" **\dir{-};
+       "A"; "A"-"u"="H" **\dir{--}; "B"-"u"="J";
+% H-J not drawn because of intersection see below.
+       "B" **\dir{-};
+       "A"; "A"+"u"="F" **\dir{-}; "B"+"u"="L" **\dir{-};
+       "B" **\dir{-};
+     %  "A" *{A}; "B" *{B}; put down A & B so I can see them
+% Drawing hidden lines
+       {"A";"D":"F";"L",x} ="M"; "A"; **\dir{--}; "D" **\dir{-};
+       {"H";"J":"G";"B",x} ="N"; "H"; **\dir{--}; "J" **\dir{-};
+       % (2,0)="C"; **\dir{-}; ?!{"A";"G"}="S"; 
+       % {"C";"B":"U";"V",x} ="D";
+     %  "B" **\dir{-}; (3,5)="H" **\dir{-}; (-1,3)="I" **\dir{-};
+     %  (-3,-5)="K" **\dir{-}; (-0.6,-3.8)="J" **\dir{-};
+     %  (1,-3)="L" **\dir{--}; "B" **\dir{--}; 
+     %  (0.6,3.8)="M" **\dir{--}; "E" **\dir{-};
+       (-2.22,0.75)="X1" *{\bullet}; "X1"+<-1em,0ex> *{C}; 
+       (1.7,2.3)="X2" *{\bullet}; "X2"+<1em,0ex> *{X}; 
+       (-1.75,-2)="X3" *{\bullet}; "X3"+<0em,-1.5ex> *{Y}; 
+       (1.75,-1.7)="X4" *{\bullet}; "X4"+<1em,0ex> *{A}; 
+%       (-2.6,-4.4)="W1" *{b}; 
+%       (0.25,-4.5)="W2" *{a}; 
+       \endxy}
+%\bye

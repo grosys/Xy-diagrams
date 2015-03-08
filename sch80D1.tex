@@ -1,0 +1,41 @@
+%&Plain
+%%%% triangle in a circle with two tangents.
+%\input xy
+%\xyoption{curve}
+%\xyoption{arc}
+
+
+\hbox{
+\xy    <1.485402cm,0.208760cm>:<-0.208760cm,1.485402cm>::
+       (0,0)="O" *\ellipse(1){-}; (0,0); (1,0)="Q";
+       "Q"+a(200)="Q2"; "O"+a(220)="O2";
+       {"O";"O2":"Q";"Q2",x}="R";
+       "R"; "Q" **\dir{-};
+       "R"+a(70)="R2"; "O"+a(100)="O3";
+       {"O";"O3":"R";"R2",x}="P";
+       "R"; "P" **\dir{-}; "P"; "Q" **\dir{-};
+       "Q"+a(270)="QB"; "P"+a(190)="PT"; 
+       {"Q";"QB":"P";"PT",x}="A";
+       "PT"; "A" **\dir{-}; "QB"; "A" **\dir{-};
+       % this is where you are presently working.
+       "A"+<0.6em,0.8ex> *{A};
+       "P"+<-0.4em,1.2ex> *{P};
+       "Q"+<0.8em,0.4ex> *{Q};
+       "R"+<-0.7em,-0.4ex> *{R};
+       "PT"+<-0.4em,1.2ex> *{B};
+       "QB"+<0.8em,0.4ex> *{C};
+%       (-1.022475,-1)="B"; "B"+a(88.726656)="B2"; 
+%        "A"+a(140.844814)="A2"; 
+%       "A"; "B" **\dir{-}; 
+%       {"A";"A2":"B";"B2",x}="C" **\dir{-}; 
+%       "A"; "C" **\dir{-}; 
+%       "B"; "C" **\dir{-}; 
+%  {"D";"G":"A";"C",x} ="E";
+%       0+a(50.844814)="P" *{\bullet}; "P"+<1em,0.3ex> *{P};
+%       (0,-1)="Q" *{\bullet}; "Q"+<0em,-1.7ex> *{Q};
+%       0+a(178.726656)="R" *{\bullet}; "R"+<-1em,0ex> *{R};
+\endxy}
+
+%\bye
+
+

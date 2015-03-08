@@ -1,0 +1,17 @@
+%&Plain
+%%%%%% A simple rectangle FISH with half diagonals labeled with variable expressions
+
+
+\hbox{
+\xy    <1cm,0cm>:<0cm,-1cm>::
+       (0,0)="A" ; (5,0)="B" **\dir{-}; 
+       (5,3)="C" **\dir{-}; (0,3)="D" **\dir{-}; 
+       "A" **\dir{-}; "A" ; "C" **\dir{-}; 
+       "B" ; "D" **\dir{-};
+       "A"+<-0.75em,1ex> *{F};
+       "B"+<0.75em,1ex> *{I};
+       "C"+<0.75em,-1ex> *{S};
+       "D"+<-0.75em,-1ex> *{H};
+       (2.5,1.5)+<0em,2ex> *{O};
+       \endxy}
+	   

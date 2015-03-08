@@ -1,0 +1,19 @@
+%&Plain
+%% Southwestern Geometry
+%%%% panhandle polygon shape for perimeter and area
+%%%% similar to those in section 8.1
+
+%\input xy
+
+\hbox{
+\xy    <1cm,0cm>:<0cm,1cm>::
+       (0,0)="A" ; (3,0)="B" **\dir{-}; 
+            ?(.5)+<0em,-2ex> *\hbox{6 m}; "B";
+       (3,2)="C" **\dir{-}; ?(.5)+<1.25em,0ex> *\hbox{4 m};
+       "C";  (6,2)="D" **\dir{-}; 
+             ?(.5)+<0em,-2ex> *\hbox{6 m}; "D";
+       (6,3)="E" **\dir{-}; (0,3)="F" **\dir{-}; 
+             ?(.5)+<0em,2ex> *\hbox{12 m}; "F";
+       "A" **\dir{-};
+             ?(.5)+<-1.5em,0ex> *\hbox{6 m}; "D";
+       \endxy}

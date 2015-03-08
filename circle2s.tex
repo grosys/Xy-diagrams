@@ -1,0 +1,21 @@
+%&Plain
+%%%% circle diagram 
+%\input xy
+%\xyoption{curve}
+%\xyoption{arc}
+
+
+\hbox{
+\xy    <1.2cm,0cm>:<0cm,1.2cm>::
+       (0,0) *\ellipse(1){-}; (0,0); 
+       (0,0) ; (1,0) **\dir{-};
+       (0,0) *{\bullet}; (1,0) *{\bullet};
+       (0,0)+<-1em,-1ex> *{O}; (1,0)+<1em,-1ex> *{P};
+       (0.5,0) *\ellipse(1){-}; 
+       (1,0) **\dir{-}; (0.5,0.86603) **\dir{-}; ?(0.5)*^!/9pt/\hbox{6~in}; 
+       (0,0); (0.5,0.86603) **\dir{-}; (0.5,-0.86603) **\dir{-};
+\endxy}
+
+%\bye
+
+

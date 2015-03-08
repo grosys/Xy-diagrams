@@ -1,0 +1,21 @@
+%&Plain
+%%%% circle diagram -- two circles tangent to each other and 2 of their common tangents
+%%%% circle diagram from Avery Stone.
+%\input xy
+%\xyoption{curve}
+%\xyoption{arc}
+
+
+\hbox{
+\xy    <1cm,0cm>:<0cm,1cm>::
+       (0,0)="O"; (3,0)="P"; "O" *\ellipse(2){-};   
+       (2,-1.5); (2,2.2); **\dir{-};
+       (1.5,0)  *\ellipse(1){-};
+       (0.632456,1.897367)="A";   (3.316228,0.948683)="B";
+       (0.032456,2.097367); (3.916228,0.748683); **\dir{-};
+       "O"; "A" **\dir{-}; "P"; "B"; **\dir{-};
+       "O" *+!UR{O}; "P" *+!UR{P}; "A" *+!DL{A}; "B" *+!DL{B}; 
+       (2,1.441518) *+!DL{C}; (2,0) *+!R{T};
+\endxy}
+
+%\bye

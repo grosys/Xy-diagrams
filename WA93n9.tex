@@ -1,0 +1,25 @@
+%&Plain
+%%%% Weeks and Adkins p93n9
+%%%% kite with diagonals
+%\input xy
+%\xyoption{curve}
+%\xyoption{arc}
+
+\hbox{
+\xy    <1cm,0cm>:<0cm,0.5cm>::
+       (-1,0)="P" ; (4,0)="Q" **\dir{-};
+       "Q"; (0.8,2.4)="A" **\dir{-};  
+       "P" ; "A" **\dir{-};   
+       "Q"; (0.8,-2.4)="B" **\dir{-};  
+       "P" ; "B" **\dir{-};   
+       "A" ; "B" **\dir{-}; (0.8,0)="O";  
+%% STRUCTURE
+       "P"+<-0.75em,-0.5ex> *{P};
+       "Q"+<0.75em,-0.5ex> *{Q};
+       "O"+<-0.75em,-1.5ex> *{O};
+       "A"+<0em,1.5ex> *{A};
+       "B"+<0em,-1.5ex> *{B};
+       \endxy}
+	   
+%\bye
+

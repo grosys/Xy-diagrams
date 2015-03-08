@@ -1,0 +1,18 @@
+%&Plain
+%%%% equilateral triangle inscribed in a circle.
+%\input xy
+%\xyoption{curve}
+%\xyoption{arc}
+
+
+\hbox{
+\xy    <1.2cm,0cm>:<0cm,1.2cm>::
+       (-0.5,0) *\ellipse(1){-}; (0,0); 
+       (0.5,0) *\ellipse(1){-}; (0,0); 
+       (-1,1); (1,1) **\dir{-}; 
+       (1,-1) **\dir{-}; 
+       (-1,-1) **\dir{-};
+       (-1,1) **\dir{-};
+\endxy}
+
+%\bye

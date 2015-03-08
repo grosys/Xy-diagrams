@@ -1,0 +1,26 @@
+%&Plain 
+%\input xy
+%A nearly equilateral triangle with some sides and angles labeled
+
+\hbox{
+\xy    <0.7cm,0cm>:<0cm,0.7cm>::
+       (0,4)="APEX"; (0.8,0)="B" **\dir{-};
+       "APEX"; (-0.8,0)="A" **\dir{-}; "B" **\dir{-};
+       (2.2,1.3)="RIGHT"; "APEX" **\dir{-}; ?(0.5)="HR";
+       "RIGHT"; "B" **\dir{-}; ?(0.5)="DHR";
+       (-2.2,1.3)="LEFT"; "APEX" **\dir{-}; ?(0.5)="HL";
+       "LEFT"; "A" **\dir{-}; ?(0.5)="DHL";
+%       "LEFT"; "APEX" **\dir{-}; ?(0.5)*_!/8pt/{9};
+       "B"+<-0.75em,1.2ex> *{\scriptstyle 80^\circ};
+       "A"+<0.77em,1.2ex> *{\scriptstyle 81^\circ};
+%
+       "HR"+(0.155,0.126); "HR"+(-0.155,-0.126); **\dir{-};
+       "DHR"+(0.099,-0.181); "DHR"+(-0.173,0.113); **\dir{-};
+       "DHR"+(0.173,-0.113); "DHR"+(-0.099,0.181); **\dir{-};
+       "HL"+(-0.155,0.126); "HL"+(0.155,-0.126); **\dir{-};
+       "DHL"+(-0.099,-0.181); "DHL"+(0.173,0.113); **\dir{-};
+       "DHL"+(-0.173,-0.113); "DHL"+(0.099,0.181); **\dir{-};
+%
+       "LEFT"+<0.8em,0ex> *{\scriptstyle 1};
+       "RIGHT"+<-0.8em,0ex> *{\scriptstyle 2};
+\endxy}

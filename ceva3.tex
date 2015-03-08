@@ -1,0 +1,35 @@
+%&Plain 
+
+%\input xy
+%\xyoption{all}
+%\xyoption{line}
+%%% Diagram for Ceva's Theorem intersects the triangle twice.
+
+\hbox{
+\xy    <3cm,0cm>:<0cm,3cm>::
+       (-1,-0.5)="B"; (1,-0.5)="C"; 
+       "B"+a(40.3)="AB"; "C"+a(135.8)="AC"; {"B";"AB":"C";"AC",x}="A"; 
+       "A"; "B" **\dir{-}; ?(0.42857)="N";  ?(0.21)*^!/8pt/{6}; ?(0.7)*^!/8pt/{8}; 
+       "B"; "C" **\dir{-}; ?(0.75)="L"; ?(0.88)*^!/8pt/{y}; ?(0.37)*^!/8pt/{x};
+       "A"; "C" **\dir{-};  ?(0.34)*_!/8pt/{9}; ?(0.88)*_!/8pt/{4};
+       {"A";"L":"C";"N",x} ="P";   {"A";"C":"B";"P",x} ="M";
+%
+       "A"; "L" **\dir{-};
+       "B"; "M" **\dir{-};
+       "C"; "N" **\dir{-};
+%
+%
+       "A"+<0em,1.25ex> *{A}; 
+       "B"+<-0.5em,-1.5ex> *{B}; 
+       "C"+<0.25em,-1.5ex> *{C}; 
+%
+       "L"+<0em,-1.25ex> *{L}; 
+       "M"+<0.5em,1.5ex> *{M}; 
+       "N"+<-0.25em,1.5ex> *{N}; 
+%
+\endxy}
+
+
+%\bye
+
+

@@ -1,0 +1,23 @@
+%\input xy
+%{}\vfill
+
+%\centerline{ \hbox{
+\xy    <0.25cm,0cm>:<0cm,0.25cm>::
+       (0,0)="B" ; (15.5,0)="C" **\dir{-}; 
+       "B"+a(29)="BA"; "C"+a(121)="CA";
+       {"B";"BA":"C";"CA",x}="A"; 
+       "C"; "A" **\dir{-}; "B" **\dir{-};
+       "A"+a(270)="AH"; {"A";"AH":"B";"C",x}="H";   "H"; "A"; **\dir{-};
+       "A"+a(255)="AS"; {"A";"AS":"B";"C",x}="S";   "S"; "A"; **\dir{-};
+       (7.25,0)="M";   "M"; "A"; **\dir{-};
+	 "A"+<0em,1.2ex> *{A};
+	 "B"+<-1.3em,-0.5ex> *{B};
+	 "C"+<1.3em,-0.5ex> *{C};
+	 "H"+<0.4em,-1.2ex> *{\bf\scriptstyle (c)};
+	 "S"+<0em,-1.2ex> *{\bf\scriptstyle (b)};
+	 "M"+<-0.4em,-1.2ex> *{\bf\scriptstyle (a)};
+       \endxy%}
+%	}
+%\vfill   
+%\eject
+%\bye

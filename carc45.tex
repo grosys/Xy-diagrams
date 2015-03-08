@@ -1,0 +1,19 @@
+%&Plain
+%%%% 45 deg arc in a circle with a chord and eq. tri.
+%\input xy
+%\xyoption{curve}
+%\xyoption{arc}
+
+
+\hbox{
+\xy    <2cm,0cm>:<0cm,2cm>::
+       (0,0) *\ellipse(1){-}; 
+       (1,0) **\dir{-} ?(0.5)*^!/8pt/\hbox{3 cm};
+       (0,0); (\halfroottwo,\halfroottwo) **\dir{-};
+       (1,0); (\halfroottwo,\halfroottwo) **\dir{-};
+       (\halfroottwo,\halfroottwo)+<0.5em,1ex> *{A};
+       (0,0)+<-0.5em,-1ex> *{O};
+       (1,0)+<0.8em,0ex> *{C};
+\endxy}
+
+%\bye

@@ -1,0 +1,1348 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=etex 2013.6.10)  8 MAR 2015 15:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**catalog
+(./catalog.tex (/usr/share/texlive/texmf-dist/tex/generic/xypic/xy.tex
+Bootstrap'ing: catcodes, docmode,
+(/usr/share/texlive/texmf-dist/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/xypic/xyidioms.tex
+\count@@=\count27
+\count@@@=\count28
+)
+
+ Xy-pic version 3.8.8 <2012/05/24>
+ Copyright (c) 1991-2011 by Kristoffer H. Rose <krisrose@tug.org>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen16
+\Y@c=\dimen17
+\U@c=\dimen18
+\D@c=\dimen19
+\L@c=\dimen20
+\R@c=\dimen21
+\Edge@c=\toks13
+\X@p=\dimen22
+\Y@p=\dimen23
+\U@p=\dimen24
+\D@p=\dimen25
+\L@p=\dimen26
+\R@p=\dimen27
+\Edge@p=\toks14
+\X@origin=\dimen28
+\Y@origin=\dimen29
+\X@xbase=\dimen30
+\Y@xbase=\dimen31
+\X@ybase=\dimen32
+\Y@ybase=\dimen33
+\X@min=\dimen34
+\Y@min=\dimen35
+\X@max=\dimen36
+\Y@max=\dimen37
+\lastobjectbox@=\box16
+\zerodotbox@=\box17
+\almostz@=\dimen38
+ direction,
+\d@X=\dimen39
+\d@Y=\dimen40
+\K@=\count29
+\KK@=\count30
+\Direction=\count31
+\K@dXdY=\dimen41
+\K@dYdX=\dimen42
+\xyread@=\read1
+\xywrite@=\write0
+\csp@=\count32
+\quotPTK@=\dimen43
+
+utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks15
+\connectobjectbox@@=\box18
+ objects,
+\styletoks@=\toks16
+ decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texlive/texmf-dist/tex/generic/xypic/xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.14 loaded)
+(/usr/share/texlive/texmf-dist/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.12 curve,
+\crv@cnt@=\count33
+\crvpts@=\toks17
+\splinebox@=\box19
+\splineval@=\dimen44
+\splinedepth@=\dimen45
+\splinetol@=\dimen46
+\splinelength@=\dimen47
+ circles,
+\L@=\dimen48
+ loaded)
+(/usr/share/texlive/texmf-dist/tex/generic/xypic/xyarc.tex
+ Xy-pic option: Circle, Ellipse, Arc feature v.3.8 circles, ellipses,
+elliptical arcs, loaded) (/home/rosys/texmf/tex/local/macros.tex
+\Probno=\count34
+\subno=\count35
+\enumno=\count36
+\figno=\count37
+\susubno=\count38
+\SmExno=\count39
+\SmExbno=\count40
+\RomExno=\count41
+\supsize=\dimen49
+\subsize=\dimen50
+\supbox=\box20
+\subbox=\box21
+\bflgfam=\fam8
+)
+(./1magnet.tex) (./2charges.tex) (./2magnet.tex) (./2pts.tex) (./2right.tex)
+(./2trisim2.tex) (./2trisim.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 6.65326
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+1.94444)x469.75499, glue set 357.1166fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(21.33955+21.33955)x231.45532
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(21.33955+21.33955)x227.62201
+...\hbox(21.33955+21.33955)x227.62201 []
+.\glue 36.135
+.etc.
+
+ [1])
+(./2xlines.tex) (./9point.tex) (./a2p596x11.tex) (./abcisxyz.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 5.4961
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 364.45543fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(137.67621+5.63887)x189.1584
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(137.67621+5.63887)x185.32509
+...\hbox(137.67621+5.63887)x185.32509 []
+.\glue 36.135
+.etc.
+
+ [2])
+(./ang2bict.tex) (./angABC2.tex) (./angABC3.tex
+Underfull \vbox (badness 3271) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 3.19943
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+1.94444)x469.75499, glue set 357.53189fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(28.45274+3.0)x174.54977
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(28.45274+3.0)x170.71646
+...\hbox(28.45274+3.0)x170.71646 []
+.\glue 72.26999
+.etc.
+
+ [3])
+(./angABCb.tex) (./angABCc.tex) (./angABC.tex) (./angbisec.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 6.29005
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+1.94444)x469.75499, glue set 351.26247fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(112.33667+14.08643)x237.75835
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(112.33667+14.08643)x233.92503
+...\hbox(112.33667+14.08643)x233.92503 []
+.\glue 36.135
+.etc.
+
+ [4])
+(./angCDE.tex) (./angFJK.tex) (./angJKF.tex) (./angles2.tex) [5] (./angles3.tex
+) (./angles.tex) (./angle.tex) (./AS211n1.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 12.58824
+.\glue(\topskip) 0.0
+.\hbox(56.90549+56.90549)x146.09702
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(56.90549+56.90549)x142.2637
+...\hbox(56.90549+56.90549)x142.2637 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [6])
+(./AS274x5.tex) (./AS341n16.tex) (./AS75n14.tex) (./AS91m3.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 19.53159
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 355.44992fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(66.81866+42.67911)x129.16632
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(66.81866+42.67911)x125.33301
+...\hbox(66.81866+42.67911)x125.33301 []
+.\glue 36.135
+.etc.
+
+ [7]
+(./ASA.tex) (./atlh613x46.tex) (./beth.tex) (./bigdia2.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 6.46014
+.\glue(\topskip) 0.0
+.\hbox(66.54433+38.09158)x153.93799
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(66.54433+38.09158)x150.10468
+...\hbox(66.54433+38.09158)x150.10468 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [8]
+(./blancirc.tex) (./boxbeam.tex) (./bs1n9.tex
+
+Xy-pic Warning: omitting unused tokens: a(240),_,a(300) [catalog:37].
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 47.46628
+.\glue(\topskip) 0.0
+.\hbox(45.52455+59.75093)x363.90848
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(45.52455+59.75093)x360.07516
+...\hbox(45.52455+59.75093)x360.07516 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [9])
+(./bullblok.tex) (./carc45.tex) (./carc60.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 9.31175
+.\glue(\topskip) 0.0
+.\hbox(37.64296+96.97212)x160.13214
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(37.64296+96.97212)x156.29883
+...\hbox(37.64296+96.97212)x156.29883 []
+.\glue 144.54
+.\glue(\lineskip) 1.0
+.\hbox(0.0+56.9055)x131.87068
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(0.0+56.9055)x128.03737
+...\hbox(0.0+56.9055)x128.03737 []
+.etc.
+
+ [10]
+(./ceva3.tex) (./cevapb2.tex) (./ceva.tex) (./circABC.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 10.5598
+.\glue(\topskip) 0.0
+.\hbox(57.14197+11.22223)x83.57278
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(57.14197+11.22223)x79.73947
+...\hbox(57.14197+11.22223)x79.73947 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [11]
+(./circACT1.tex) (./circACT2.tex) (./circACTb.tex) (./circch12b.tex)
+(./circch12.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 7.95378
+.\glue(\topskip) 0.0
+.\hbox(62.14517+54.91974)x105.6414
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(62.14517+54.91974)x101.80809
+...\hbox(62.14517+54.91974)x101.80809 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [12])
+(./circdia1.tex) (./circdiab.tex) (./circdia.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 50.00897
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 359.08878fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(55.80948+64.50583)x126.51936
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(55.80948+64.50583)x122.68605
+...\hbox(55.80948+64.50583)x122.68605 []
+.\glue 36.135
+.etc.
+
+ [13]
+(./circint.tex) (./circle1.tex) (./circle2s.tex) (./circle2.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 13.70667
+.\glue(\topskip) 0.0
+.\hbox(106.69781+88.91484)x173.54706
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(106.69781+88.91484)x169.71375
+...\hbox(106.69781+88.91484)x169.71375 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [14]
+(./circle3.tex) (./circleG.tex) (./circleh.tex) (./circle.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 23.38919
+.\glue(\topskip) 0.0
+.\hbox(29.56897+29.56897)x68.83371
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(29.56897+29.56897)x65.0004
+...\hbox(29.56897+29.56897)x65.0004 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [15]
+(./circleul.tex) (./circO.tex) (./circtri.tex) (./cirequt.tex) (./cirexAn2.tex)
+(./cirexAn3.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 9.56601
+.\glue(\topskip) 0.0
+.\hbox(55.80948+64.50583)x126.51936
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(55.80948+64.50583)x122.68605
+...\hbox(55.80948+64.50583)x122.68605 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [16])
+(./cirexAn4.tex) (./cirexAng.tex) (./COC136x22.tex) (./COC161n28.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 10.11623
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 354.70685fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(50.29788+70.61957)x169.49554
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(50.29788+70.61957)x165.66223
+...\hbox(50.29788+70.61957)x165.66223 []
+.\glue 36.135
+.etc.
+
+ [17]
+(./coc19x30b.tex) (./coc19x30.tex) (./coc23x10.tex) (./consttri.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 6.71005
+.\glue(\topskip) 0.0
+.\hbox(123.89429+3.41666)x178.25352
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(123.89429+3.41666)x174.42021
+...\hbox(123.89429+3.41666)x174.42021 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 1.6389
+.etc.
+
+ [18]
+(./copyang.tex) (./cube.tex) (./cubpynet.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 53.91524
+.\glue(\topskip) 0.0
+.\hbox(28.45274+28.45274)x203.00252
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(28.45274+28.45274)x199.1692
+...\hbox(28.45274+28.45274)x199.1692 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [19]
+(./cubtrsc1.tex) (./cubtrsec.tex) (./dol351n1.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 6.63148
+.\glue(\topskip) 0.0
+.\hbox(310.69174+108.405)x220.64331
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(310.69174+108.405)x216.81
+...\hbox(310.69174+108.405)x216.81 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [20])
+(./equitri.tex) (./euclidp5.tex) (./examples.tex
+
+Xy-pic Warning: omitting unused tokens: a(240),_,a(300) [catalog:18].
+
+) (./extrang.tex)
+Underfull \vbox (badness 1097) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 2.22351
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 355.19992fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(78.36972+10.08331)x171.14035
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(78.36972+10.08331)x167.30704
+...\hbox(78.36972+10.08331)x167.30704 []
+.\glue 36.135
+.etc.
+
+ [21]
+(./ficirc1.tex) (./ficirc2b.tex) (./ficirc2.tex) (./ficirc3b.tex)
+(./ficirc3.tex
+Underfull \vbox (badness 1762) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 2.60355
+.\glue(\topskip) 0.0
+.\hbox(94.10822+8.74997)x204.92358
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(94.10822+8.74997)x201.09027
+...\hbox(94.10822+8.74997)x201.09027 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [22])
+(./ficirc3t.tex) (./ficirc4.tex) (./ficirc5.tex) (./ficirc6.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 17.24559
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 369.63039fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(34.09161+65.23598)x142.25842
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(34.09161+65.23598)x138.42511
+...\hbox(34.09161+65.23598)x138.42511 []
+.\glue 36.135
+.etc.
+
+ [23]
+(./ficircB.tex) (./fig12h1.tex) (./firttri1.tex) (./firttri2.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 19.51497
+.\glue(\topskip) 0.0
+.\hbox(34.09161+65.23598)x142.25842
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(34.09161+65.23598)x138.42511
+...\hbox(34.09161+65.23598)x138.42511 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [24]
+(./fivpoint.tex) (./fld2chrg.tex) (./geomean2.tex) (./geomean3.tex)
+(./geomean.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 23.18762
+.\glue(\topskip) 0.0
+.\hbox(76.59196+24.4486)x171.14035
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(76.59196+24.4486)x167.30704
+...\hbox(76.59196+24.4486)x167.30704 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [25]
+(./hexagon2.tex) (./hexagon.tex) (./HJ133n26.tex) (./HJ133x23.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 12.46544
+.\glue(\topskip) 0.0
+.\hbox(78.36884+11.22223)x469.75499, glue set 187.03699fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [26]
+(./Hray.tex) (./indAlt.tex) (./indMedn.tex) (./ir5gon.tex) (./isotri.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 4.62355
+.\glue(\topskip) 0.0
+.\hbox(135.50992+12.30554)x184.67398
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(135.50992+12.30554)x173.17404
+...\hbox(135.50992+12.30554)x173.17404 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [27])
+(./J27net.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 482.59825
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 374.03871fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(95.44154+10.08331)x91.24182
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(95.44154+10.08331)x87.40851
+...\hbox(95.44154+10.08331)x87.40851 []
+.\glue 36.135
+.etc.
+
+ [28]
+(./J89net.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x332.52197
+.\glue(\topskip) 0.0
+.\hbox(419.09674+202.28674)x332.52197
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(419.09674+202.28674)x328.68866
+...\hbox(419.09674+202.28674)x328.68866 []
+
+ [29])
+(./jg188x30.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 366.34569fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(512.97849+110.14183)x332.52197
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(512.97849+110.14183)x328.68866
+...\hbox(512.97849+110.14183)x328.68866 []
+
+ [30])
+(./jg201x24.tex) (./jg201x31.tex) (./jg238x7A.tex) (./jg239x6.tex)
+(./jg283x15b.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 5.21432
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+1.94444)x469.75499, glue set 355.8388fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(52.76242+11.05554)x108.54912
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(52.76242+11.05554)x104.7158
+...\hbox(52.76242+11.05554)x104.7158 []
+.\glue 36.135
+.etc.
+
+ [31])
+(./jg283x15ez.tex) (./jg283x15.tex) (./jg460x22.tex) (./jg569x14.tex)
+Underfull \vbox (badness 1253) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 2.3241
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+1.94444)x469.75499, glue set 349.44995fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(65.5663+43.37288)x152.47481
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(65.5663+43.37288)x148.6415
+...\hbox(65.5663+43.37288)x148.6415 []
+.\glue 36.135
+.etc.
+
+ [32]
+(./jgT17x25.tex) (./jgT23n13.tex) (./jgT23n14.tex) (./jgT23n15.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 13.24585
+.\glue(\topskip) 0.0
+.\hbox(49.28174+67.05827)x174.54982
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(49.28174+67.05827)x170.7165
+...\hbox(49.28174+67.05827)x170.7165 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [33]
+(./jgT23n16.tex) (./jgT4x39.tex) (./jgt6n14.tex) (./jrg69x12.tex)
+(./jrgt18d1.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 4.72864
+.\glue(\topskip) 0.0
+.\hbox(79.66736+0.0)x91.46729
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(79.66736+0.0)x87.63397
+...\hbox(79.66736+0.0)x87.63397 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 5.05556
+.etc.
+
+ [34])
+(./jrgt18d4.tex) (./jrj112x10.tex) (./jrj113x13.tex) (./jrj162x14.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 8.64514
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+1.94444)x469.75499, glue set 357.811fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(90.9971+5.63887)x230.25241
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(90.9971+5.63887)x226.4191
+...\hbox(90.9971+5.63887)x226.4191 []
+.\glue 36.135
+.etc.
+
+ [35]
+(./jrjT2n20.tex) (./jrjT5n10.tex) (./jrjT5n6.tex) (./jrjT6n1.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 14.82133
+.\glue(\topskip) 0.0
+.\hbox(95.44156+10.08331)x148.49982
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(95.44156+10.08331)x144.6665
+...\hbox(95.44156+10.08331)x144.6665 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [36]
+(./jrjT7x14.tex) (./jrjT9n1.tex) (./kochbild.tex) (./kt233n2.tex)
+(./lrgtri2.tex)
+Underfull \vbox (badness 2334) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 2.8602
+.\glue(\topskip) 0.0
+.\hbox(37.42494+37.42494)x121.63503
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(37.42494+37.42494)x117.80171
+...\hbox(37.42494+37.42494)x117.80171 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [37]
+(./lrgtri3r.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499
+.\glue(\topskip) 0.0
+.\hbox(478.00594+1.94444)x469.75499, glue set 18.98904fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+
+ [38]
+(./lrgtri3.tex) (./lrgtri.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 135.72118
+.\glue(\topskip) 0.0
+.\hbox(222.14543+10.08331)x469.75499, glue set 112.76317fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [39]
+(./manyline.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 61.5784
+.\glue(\topskip) 0.0
+.\hbox(533.48915+1.94444)x469.75499, glue set 24.73901fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 3.11111
+.etc.
+
+ [40]
+(./menelaus.tex) (./mer501x7.tex) (./midsegsm.tex) (./mz391x7.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 13.18904
+.\glue(\topskip) 0.0
+.\hbox(73.9773+99.5846)x163.33572
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(73.9773+99.5846)x159.50241
+...\hbox(73.9773+99.5846)x159.50241 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [41])
+(./mz391x8.tex) (./nicetri2.tex) (./nicetri.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 43.09999
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 356.15825fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(53.47394+28.45274)x203.65683
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(53.47394+28.45274)x199.82352
+...\hbox(53.47394+28.45274)x199.82352 []
+.\glue 36.135
+.etc.
+
+ [42]
+(./nyr5330.tex) (./nyr67j32.tex) (./nyr77a3m.tex) (./nyr77a3.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 12.03307
+.\glue(\topskip) 0.0
+.\hbox(158.72826+5.63887)x258.38318
+..\hbox(158.72826+5.63887)x258.38318
+...\kern 18.99335
+...\hbox(0.0+0.0)x0.0 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [43])
+(./nys56j29.tex) (./nys83j32.tex) (./parab001.tex
+\GNUPLOTunit=\dimen51
+)
+Overfull \hbox (9.27925pt too wide) in paragraph at lines 500--502
+[]\tenbf item: parab001.tex [][] |
+
+\hbox(216.8042+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenbf i
+.\tenbf t
+.\tenbf e
+.\tenbf m
+.etc.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 112.31607
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+1.94444)x469.75499, glue set 360.20685fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(89.88599+7.8611)x173.67535
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(89.88599+7.8611)x169.84204
+...\hbox(89.88599+7.8611)x169.84204 []
+.\glue 36.135
+.etc.
+
+ [44]
+(./parab601.tex)
+Overfull \hbox (9.27925pt too wide) in paragraph at lines 503--505
+[]\tenbf item: parab601.tex [] |
+
+\hbox(252.93823+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenbf i
+.\tenbf t
+.\tenbf e
+.\tenbf m
+.etc.
+
+(./parab602.tex)
+Overfull \hbox (9.27925pt too wide) in paragraph at lines 506--508
+[]\tenbf item: parab602.tex [] |
+
+\hbox(252.93823+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenbf i
+.\tenbf t
+.\tenbf e
+.\tenbf m
+.etc.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 134.38068
+.\glue(\topskip) 0.0
+.\hbox(216.8042+1.94444)x469.75499, glue set - 1.0
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [45]
+(./parabox.tex) (./pararea.tex) (./pentdia2.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 22.99748
+.\glue(\topskip) 0.0
+.\hbox(252.93823+1.94444)x469.75499, glue set - 1.0
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 3.11111
+.etc.
+
+ [46]
+(./planes2.tex) (./planes.tex) (./plinline.tex) (./plnnline.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 9.71349
+.\glue(\topskip) 0.0
+.\hbox(66.98882+51.6766)x137.23529
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(66.98882+51.6766)x133.40198
+...\hbox(66.98882+51.6766)x133.40198 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [47]
+(./pointline.tex) (./proptri2.tex) (./proptri.tex) (./ptelline.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 7.3337
+.\glue(\topskip) 0.0
+.\hbox(57.61707+10.66977)x121.2009
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(57.61707+10.66977)x117.36758
+...\hbox(57.61707+10.66977)x117.36758 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [48]
+(./ptline2.tex) (./ptline.tex) (./ptonline.tex) (./q50d1.tex) (./q61d1.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 6.0861
+.\glue(\topskip) 0.0
+.\hbox(19.71207+61.4043)x227.90771
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(19.71207+61.4043)x224.0744
+...\hbox(19.71207+61.4043)x224.0744 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [49]
+(./Q9P1.tex) (./Qo15d1.tex) (./quad.tex) (./quizonea.tex) (./quizoneb.tex
+Underfull \vbox (badness 2150) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 2.78217
+.\glue(\topskip) 0.0
+.\hbox(12.92876+71.13185)x185.39429
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(12.92876+71.13185)x181.56097
+...\hbox(12.92876+71.13185)x181.56097 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [50])
+(./quizonec.tex) (./quizoned.tex) (./quizone.tex) (./rayAB.tex) (./rayXY.tex)
+(./rb9tfA15.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 7.86678
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+1.94444)x469.75499, glue set 355.35963fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(64.01866+0.0)x77.75557
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(64.01866+0.0)x73.92226
+...\hbox(64.01866+0.0)x73.92226 []
+.\glue 36.135
+.etc.
+
+ [51]
+(./rb9tfA16.tex) (./rb9tfA17.tex) (./rb9tfA18.tex) (./rect.tex) (./rhombus.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 10.45677
+.\glue(\topskip) 0.0
+.\hbox(93.51096+11.22223)x128.314
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(93.51096+11.22223)x124.48068
+...\hbox(93.51096+11.22223)x124.48068 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [52])
+(./rtalt.tex) (./rtd1.tex) (./rtd2.tex) (./rtd3.tex) (./rtrialbt.tex)
+(./rtrialpb.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 7.51743
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 356.46936fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(46.09578+46.09578)x162.5518
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(46.09578+46.09578)x158.71849
+...\hbox(46.09578+46.09578)x158.71849 []
+.\glue 36.135
+.etc.
+
+ [53]
+(./rtrialpc.tex) (./rtrialph.tex) (./rtrisol2.tex) (./rtrisolf.tex)
+(./rtrisol.tex) (./rtrsoh38.tex
+Underfull \vbox (badness 1205) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 2.29465
+.\glue(\topskip) 0.0
+.\hbox(62.54457+11.22223)x469.75499, glue set 191.93707fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [54])
+(./rtrsol22.tex) (./rttri2.tex) (./rttrialph.tex) (./rttribet.tex)
+(./rttriB.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 22.6565
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 357.80267fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(67.85954+5.63887)x108.54399
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(67.85954+5.63887)x104.71068
+...\hbox(67.85954+5.63887)x104.71068 []
+.\glue 36.135
+.etc.
+
+ [55]
+(./rttrif.tex) (./rttrig01.tex) (./rttri.tex) (./sch74D5.tex) (./sch80D1.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 4.45049
+.\glue(\topskip) 0.0
+.\hbox(62.54457+11.22223)x469.75499, glue set 200.51508fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [56])
+(./seg12.tex) (./seg2mes.tex) (./segAB.tex) (./segDEF2.tex) (./segDEF.tex)
+(./segJK.tex) (./seglng.tex
+Underfull \vbox (badness 3118) has occurred while \output is active
+\vbox(643.20255+3.41666)x469.75499, glue set 3.14915
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 358.13603fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(63.15642+37.96289)x127.566
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(63.15642+37.96289)x123.73268
+...\hbox(63.15642+37.96289)x123.73268 []
+.\glue 36.135
+.etc.
+
+ [57])
+(./segment.tex) (./segmn2.tex) (./segmn.tex) (./segsABCD.tex) (./segXY.tex)
+(./sem2blo.tex) (./semcirc.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 5.3453
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+1.94444)x469.75499, glue set 369.0318fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\baselineskip) 6.6389
+.\hbox(3.41666+43.25034)x233.7958
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(3.41666+43.25034)x229.9625
+...\hbox(3.41666+43.25034)x229.9625 []
+.\glue 36.135
+.etc.
+
+ [58]
+(./SemP2.tex) (./SemP3.tex) (./semspring.tex) (./shape2.tex) (./shape3.tex)
+Underfull \vbox (badness 4467) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 3.55208
+.\glue(\topskip) 0.0
+.\hbox(15.7742+142.26375)x469.75499, glue set 49.38177fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [59]
+(./shape.tex) (./simtri1.tex) (./Spress.tex) (./sqcirc.tex) (./std1.tex)
+Underfull \vbox (badness 5622) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 3.83485
+.\glue(\topskip) 0.0
+.\hbox(21.33955+64.01868)x469.75499, glue set 272.6528fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [60]
+(./std2.tex) (./std3.tex) (./std4.tex) (./std5.tex) (./sw348n14.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 12.38034
+.\glue(\topskip) 0.0
+.\hbox(28.45274+62.3916)x469.75499, glue set 277.36917fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [61]
+(./swfig81.tex) (./swfig83.tex) (./swfig84.tex) (./swfig86.tex) (./swfig87.tex)
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 4.73405
+.\glue(\topskip) 0.0
+.\hbox(95.44154+10.08331)x171.02818
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(95.44154+10.08331)x167.19487
+...\hbox(95.44154+10.08331)x167.19487 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [62]
+(./swt5an7.tex) (./t4p1b.tex) (./T4P1.tex) (./T4P2.tex) (./T4Q05.tex) [63]
+(./T4Q06.tex) (./T4Q08.tex) (./T4Q09a.tex) (./T4Q09b.tex) (./T4Q09c.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 12.4401
+.\glue(\topskip) 0.0
+.\hbox(28.45274+85.35823)x469.75499, glue set 216.10286fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [64]
+(./T4Q09d.tex) (./T4Q09e.tex) (./T4Q12.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xypic/xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.14 not reloaded)) (./T4Q13.tex)
+(./T4Qec16.tex) (./T5FIP1b.tex) [65] (./T5FIP1.tex) (./tcirc1b.tex)
+(./testcirc1.tex) (./testcirc2.tex) (./testcirc3.tex [66]) (./testcirc4.tex)
+(./testcirc5.tex) (./testcirc6.tex) (./threepts.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 8.95865
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+0.0)x469.75499, glue set 357.26796fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(54.65753+52.15497)x129.05067
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(54.65753+52.15497)x125.21736
+...\hbox(54.65753+52.15497)x125.21736 []
+.\glue 36.135
+.etc.
+
+ [67]
+(./threeseg.tex) (./tqmotor.tex) (./tqplank.tex) (./trangABC.tex)
+(./trangbis.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 11.34113
+.\glue(\topskip) 0.0
+.\hbox(87.11443+2.22223)x153.35182
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(87.11443+2.22223)x149.51851
+...\hbox(87.11443+2.22223)x149.51851 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 2.83333
+.etc.
+
+ [68])
+(./trans123.tex) (./trans2.tex) (./trans4.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 39.61336
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+1.94444)x469.75499, glue set 358.8652fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(89.22571+11.22223)x166.96275
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(89.22571+11.22223)x163.12944
+...\hbox(89.22571+11.22223)x163.12944 []
+.\glue 36.135
+.etc.
+
+ [69]
+(./transhor.tex) (./transpaF.tex) (./transpar.tex) (./transthr.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 19.74448
+.\glue(\topskip) 0.0
+.\hbox(91.04869+85.35823)x288.36075
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(91.04869+85.35823)x284.52744
+...\hbox(91.04869+85.35823)x284.52744 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [70]
+(./transt.tex) (./trapdiag.tex) (./trap.tex) (./triABC6.tex
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 13.54301
+.\glue(\topskip) 0.0
+.\hbox(85.35825+34.14365)x469.75499, glue set 214.36183fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [71])
+(./triABC.tex) (./TriAnBis.tex) (./trigtri9.tex) (./trigtriC.tex [72])
+(./trigtriT.tex) (./trinbis.tex) (./TriPropT.tex) (./trirocl.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 40.09154
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+1.94444)x469.75499, glue set 361.06097fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue(\lineskip) 1.0
+.\hbox(78.36972+11.22223)x171.14035
+..\glue 3.83331 plus 1.91666 minus 1.27777
+..\hbox(78.36972+11.22223)x167.30704
+...\hbox(78.36972+11.22223)x167.30704 []
+.\glue 36.135
+.etc.
+
+ [73]
+(./triROC.tex) (./trivocab2.tex) (./trivocab.tex) (./triwpar.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+4.0)x469.75499, glue set 37.79724
+.\glue(\topskip) 0.0
+.\hbox(113.81097+0.0)x469.75499, glue set 218.47781fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [74]
+(./trp2diag.tex) (./tstcirc7.tex) (./twave.tex) (./twoang.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+1.94444)x469.75499, glue set 21.27307
+.\glue(\topskip) 0.0
+.\hbox(91.44792+7.8611)x469.75499, glue set 185.95245fil
+..\hbox(0.0+0.0)x20.0
+..\tenbf i
+..\tenbf t
+..\tenbf e
+..\tenbf m
+..etc.
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [75]
+(./twoseg.tex) (./vafind2.tex) (./vafind.tex) (./vatheorem.tex) (./wa132P1.tex)
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 12.13951
+.\glue(\topskip) 0.0
+.\hbox(106.69778+32.76556)x298.75386
+..\hbox(106.69778+32.76556)x298.75386
+...\kern 0.0
+...\hbox(0.0+0.0)x0.0 []
+.\glue 36.135
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\lineskip) 1.0
+.etc.
+
+ [76]
+(./WA93n9.tex) (./wa94x6.tex) [77] )
+Output written on catalog.dvi (77 pages, 1990384 bytes).

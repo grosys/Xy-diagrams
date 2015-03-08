@@ -1,0 +1,17 @@
+%&Plain
+%%% a parallelogram, diagonals and another line segment.
+
+\hbox{
+\xy    <1cm,0cm>:<0cm,1cm>::
+       (0.1,0)="E";  (-0.1,2.5)="G";  (-2,0)="A";  (1,0)="B" **\dir{-};
+       (2,2.5)="C" **\dir{-};  (-1,2.5)="D" **\dir{-}; "A" **\dir{-};
+       "C" **\dir{-};  "D"; "B" **\dir{-} ?!{"E";"G"}="F";
+       "E"; "G" **\dir{-};  
+       "A"+<-0.5em,-1.5ex> *{A};
+       "D"+<-0.5em,1.5ex> *{D};
+       "B"+<0.5em,-1.5ex> *{B};
+       "C"+<0.5em,1.5ex> *{C};
+       "E"+<0em,-1.5ex> *{E};
+       "G"+<0em,1.5ex> *{G};       "F"+<1em,0ex> *{F};
+       \endxy}
+	   

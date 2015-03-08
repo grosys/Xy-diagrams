@@ -1,0 +1,30 @@
+%&Plain
+%%%% circle diagram 
+%%%% circle diagram from ACT Prep book ---find diameter
+%%%% circle 120^\circ segment.
+%\input xy
+%\xyoption{curve}
+%\xyoption{arc}
+
+
+\hbox{
+\xy    <2cm,0cm>:<0cm,2cm>::
+       (0,0) *\ellipse(1){-}; (1,0); 
+       (-0.93969,-0.34202)="C"; (0.98481,-0.17365)="D" **\dir{-}; 
+       ?(0.15)*^!/7pt/{4};  ?(0.7)*^!/7pt/{12};  
+       "C"+<-0.8em,-0.5ex> *{C}; 
+       "D"+<1em,0ex> *{D}; 
+       %%% C -> D 
+       (0.17365,-0.98481)="B"; (-0.86603,0.5)="A" **\dir{-};
+       ?(0.7)*^!/7pt/{6};  % ?(0.2)*^!/7pt/{x}; 
+       ?!{(-0.93969,-0.34202);(0.98481,-0.17365)}+<-0.35em,-1.25ex> 
+                  *{E};
+       "B"+<0.2em,-1.3ex> *{B}; "A"+<-0.6em,0.5ex> *{A}; 
+       "B"; "D"; **\dir{-}; "A"; "C"; **\dir{-}; 
+       %%% B -> A 
+       (0,0) *{\bullet}; (0,0)+<-0.7em,-0.5ex> *{O};
+\endxy}
+
+%\bye
+
+

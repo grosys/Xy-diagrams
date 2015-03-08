@@ -1,0 +1,21 @@
+%&Plain
+%%%% circle diagram --- Two secants form angle outside circle.
+%\input xy
+%\xyoption{curve}
+%\xyoption{arc}
+
+
+\hbox{
+\xy    <2.5cm,0cm>:<0cm,2.5cm>::
+       (0,0) *\ellipse(1){-}; 
+       (-1,0)="A"; (0.8660,-0.5)="C" **\dir{-}; 
+       (0.70711,0.70711)="B"; (-0.6,-0.8)="D" **\dir{-};
+       "A"; "B" **\dir{-};
+       "C"; "D" **\dir{-};
+	 (0,-0.3)+<1.2em,2ex> *{\theta};
+	 (-0.86602,-0.5)+<-1.0em,-1.0ex> *{45^\circ};
+	 (1,0)+<1.4em,1.0ex> *{75^\circ};
+
+\endxy}
+
+%\bye
